@@ -1,1 +1,2 @@
 # Home-cooking-assistant
+Home Cooking Assistant is an app that provides users with ways to make delicious food. The app includes a variety of menus, from delicious meals to desserts, with detailed tutorials. I believe that you who love cooking and are full of action will not refuse such an app...For more comments and suggestions, please contact us: "Home cooking assistant" official email: keithpollakowski@hotmail.com
